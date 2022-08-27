@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Futura";
+  font-display: auto;
+  unicode-range: U+000-5FF;
+  src: local("Roboto"), url("../fonts/futura-bold.woff2") format("woff2"),
+    url("../fonts/kinopoisk-bold.woff2") format("woff2"),
+    url("../fonts/kinopoisk-light.woff2") format("woff2"),
+    url("../fonts/kinopoisk-lite.woff2") format("woff2"),
+    url("../fonts/kinopoisk-medium.woff2") format("woff2"),
+    url("../fonts/kinopoisk-regular.woff2") format("woff2"),
+    url("../fonts/kinopoisk-semibold.woff2") format("woff2");
+}
